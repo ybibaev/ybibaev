@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I am [Yaroslav Bibaev](https://bibaev.dev), python developer and [blogger](https://instagram.com/y.bibaev).
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ybibaev)
